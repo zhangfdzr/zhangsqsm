@@ -1,0 +1,29 @@
+{
+    "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D",
+"classes": [
+{"type_name":"古筝","type_id":"古筝教学"},
+{"type_name":"琵琶","type_id":"琵琶教学"},
+{"type_name":"古琴","type_id":"古琴教学"},
+{"type_name":"二胡","type_id":"二胡教学"},
+{"type_name":"笛子","type_id":"笛子教学"},
+{"type_name":"箫","type_id":"箫教学"},
+{"type_name":"埙","type_id":"埙教学"},
+{"type_name":"中国鼓","type_id":"中国鼓教学"},
+{"type_name":"唢呐","type_id":"唢呐教学"},
+{"type_name":"围棋","type_id":"围棋教学"},
+{"type_name":"象棋","type_id":"象棋教学"},
+{"type_name":"军棋","type_id":"军棋教学"},
+{"type_name":"黑白棋","type_id":"黑白棋教学"},
+{"type_name":"国际象棋","type_id":"国际象棋教学"},
+{"type_name":"硬笔书法","type_id":"硬笔书法教学"},
+{"type_name":"毛笔书法","type_id":"毛笔书法教学"},
+{"type_name":"隶书","type_id":"隶书"},
+{"type_name":"篆书","type_id":"篆书"},
+{"type_name":"行书","type_id":"行书"},
+{"type_name":"国画","type_id":"国画教学"},
+{"type_name":"绘画","type_id":"绘画教学"},
+{"type_name":"水彩画","type_id":"水彩画教学"},
+{"type_name":"油画","type_id":"油画教学"},
+{"type_name":"非遗花鸟字画","type_id":"民间艺术花鸟字画"}
+]
+}
