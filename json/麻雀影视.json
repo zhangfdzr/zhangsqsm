@@ -1,0 +1,86 @@
+{
+ 
+"作者": "🐾Joao/240301/",
+  
+"站名": "麻雀影视",   
+"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://mqtv.cc/",
+"编码": "UTF-8",
+"图片代理": "0",
+//"嗅探词": ".mp4#.m3u8#.flv#ali",
+"过滤词": "",
+"直接播放": "0",
+"播放请求头": "",
+"主页url": "https://mqtv.cc",
+"首页": "200",
+"起始页": "1",
+//https://mqtv.cc/libs/VodList.api.php?home=index
+"分类url":"/libs/VodList.api.php?type={cateId}&rank=rankhot&cat=&year=&area=&page={catePg};;mk",
+
+"分类": "电影&电视剧&动漫&综艺",
+
+"分类值": "movie&tv&ct&va",
+
+"数组":"默认--data||首页--data.banner.show",
+
+"图片":"img",
+
+"标题": "title",
+
+"副标题": "remark",
+
+"链接": "'https://mqtv.cc/libs/VodInfo.api.php?'+type+'id='+url[替换:/play/*/>>空]",
+"线路二次截取":"",
+
+"线路数组":"cnsite\":&&,[替换:视频>>空]",
+
+"线路标题":"🐾食全食美+\"&&\"[排序:🐾Joao卿卿>🐾Joao唧唧>🐾Joao海宝]",
+
+"播放二次截取":"",
+
+"播放数组":"player\":\\[&&\\]",
+                                 
+"播放列表":"{&&}",
+
+"播放标题":"no\":\"&&\"",
+
+"播放链接":"url\":\"&&\"",
+
+"倒序":"0",
+
+"解析": "默认$https://player.mqtv.cc/fun/?url=",
+
+"影片类型":"data.type+data.des",
+
+"影片状态":"data.remark",
+
+"影片年代":"data.year",
+
+"影片地区":"data.area",
+
+"导演": "data.director",
+
+"主演": "data.actor",
+
+"简介":"data.title",
+// /libs/VodList.api.php?search={wd}&page={pg}
+
+"搜索请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+
+"搜索url":"https://mqtv.cc/libs/VodList.api.php?search={wd}",
+
+"搜索模式":"1",
+
+"搜索二次截取":"vod_all*show\":\\[&&\\]",
+
+"搜索数组":"{&&}",
+
+"搜索图片":"img\":\"&&\"",
+
+"搜索标题": "title\":\"&&\"",
+
+"搜索副标题": "remark\":\"&&\"",
+
+"搜索链接": "https://mqtv.cc/libs/VodInfo.api.php?+urlDecode(url\":\"&&\")[替换:/play/>>空#m/>>mid=#tv/>>tvid=#ct/>>ctid=#va/>>vaid=]"
+
+}
+
