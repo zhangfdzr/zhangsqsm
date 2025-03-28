@@ -1,38 +1,38 @@
 {
-      "spider": "./jar/食全食美.jar",
-      "wallpaper": "http://xhww.fun:63/img.php",
-        "lives": [    
-        {"name": "live2","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/zhangfdzr/zhangsqsm/main/tvzb.txt","ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-           {"name":"live","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1}
+“蜘蛛”:/jar/食全食美。罐子”，“蜘蛛”: "./jar/食全食美。罐子",
+「壁纸」:「http://xww . fun:63/img . PHP」，“壁纸”: "http://xhww.fun:63/img.php",
+"生活":[“生命”: [    
+{"名称": 《直播2》，"类型": 0，"网址":https://GH代理。net/https://raw。githubusercontent。com/张fdzr/张qsm/main/tvzb。txt "，" ua": "okhttp/3.12.13 "，" EPG ":"http://epg.112114.xyz/？ch={name}&date={date}，" logo ":" https://EPG . 112114 . XYZ/logo/{ name } . png " }，{"name": "live2","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/zhangfdzr/zhangsqsm/main/tvzb.txt","ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"名称":“直播”，"类型":0，"网址":“https://live。范明明。com/TV/m3u/IPv6。m3u "，" playerType":1}{"name":"live","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1}
     ],    
-    "sites": [     
-           {"key":"豆瓣","name":"👏🐲食全食美欢迎您🐲👏","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+"站点":["网站": [     
+{"钥匙":"豆瓣“，”名称“:”👏🐲食全食美欢迎您🐲👏"、"类型":3、" API ":" CSP _豆瓣"，"可搜索":0，"可改变":1}，{"key":"豆瓣","name":"👏🐲食全食美欢迎您🐲👏","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
       
-          {"key":"csp_LocalFile","name":"💻本地存储视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},  
-       {"key": "好趣网","name": "📡食全食美 | 电视","type": 3,"api": "./js/apiv937drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./js/好趣网.js"},          
-          {"key":"py_集合","name":"🇨🇳影视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yangshi.json"},         
+{"钥匙":" csp _本地文件"，"名称":"💻本地存储视频","类型":3，" API":"CSP _ local文件"，"可搜索":0,"快速搜索":0,"可过滤":0,"类型_标志":0},{"key":"csp_LocalFile","name":"💻本地存储视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},  
+{"钥匙":"好趣网","名称":"📡食全食美 电视"",类型:3，" api":/js/apiv937drpy2.min.js "，"可搜索":1，"快速搜索":1，"可过滤":1，" order_num": 87，" ext ":"。/js/好趣网。js"}，{"key": "好趣网","name": "📡食全食美 | 电视","type": 3,"api": "./js/apiv937drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./js/好趣网.js"},          
+{"钥匙":" py_集合","名称":"🇨🇳影视集合"、" type":3、" style":{"type":"rect "，" ratio":1.485}、" api":"py_cctv "、" searchable":1、" quickSearch":1、" filterable":1、" ext ":"。/json/yangshi.json"}，{"key":"py_集合","name":"🇨🇳影视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yangshi.json"},         
               {
-            "key": "py_cctv_少儿",
-            "name": "💕食全食美|少儿",
-            "type": 3,
-            "api": "py_cctv_full",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/py_央视少儿.py"
+【重点】:“py_cctv_少儿","key": "py_cctv_少儿",
+"名称": "💕食全食美 少儿","名称": "💕食全食美|少儿",
+【类型】:3、"类型": 3,
+" api ": " py_cctv_full "，" api ": "py_cctv_full",
+“可搜索”:0，"searchable": 0,
+“快速搜索”:0，"quickSearch": 0,
+“可过滤”:1、"filterable": 1,
+" ext ":"。/json/py_央视少儿。py ""ext": "./json/py_央视少儿.py"
         }, 
         {
-      "key": "❤️短剧",
-      "name": "❤️十美短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
+“关键”:“❤️短剧","key": "❤️短剧",
+【姓名】:“❤️十美短剧","name": "❤️十美短剧",
+【类型】:3、"type": 3,
+“蜜蜂”: “csp_XBPQ”，“蜜蜂”: “csp_XBPQ”,
+" ext"      "ext": {{"ext": {
         "导演": "食全食美",
         "主演": "主演:&&</div>",
         "简介": "食全食美提醒您,请勿相信影片中的广告+<p>&&</p>",
         "分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;ar1",
         "分类": "恋爱&反转&悬疑&穿越&古装&都市",
-        "分类值": "lianai&fanzhuan&xuanyi&chuanyue&guzhuang&dushi"
+        "分类值": 《艾连&樊哙&宣仪&川越&古装&杜诗》
       }
     }, 
 {"key": "js_星芽短剧","name": "❤️星芽短剧","type": 3,"api": "./js/apiv937drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/星芽短剧.js"},	
@@ -45,7 +45,7 @@
       "ext": {
         "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
         "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
-        "播放数组": "<div class=\"sort-item\"&&</div>"
+        "播放数组": "<div class= "sort-item "&&</div>"
       } },  
            {
             "key": "韩小圈",
@@ -72,10 +72,10 @@
 					"chunksize": 250,
 					"threads": 10}			
 			},"jar": "./jar/xm.jar"},		
-        //{"key":"荐蓝","name":"👻食全食美|荐蓝1","type":3,"api":"./js/apiv937drpy2.min.js","ext":"./js/jianpian.js"}, 
-        {"key": "瓜子js","name": "🫘食全食美｜瓜子1","type": 3,"api": "./js/apiv937drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./js/瓜子.js"},
+        //{"key":"荐蓝","name":"👻食全食美|荐蓝1","type":3,"api":"./js/apiv549drpy2.min.js","ext":"./js/jianpian.js"}, 
+        {"key": "瓜子js","name": "🫘食全食美｜瓜子1","type": 3,"api": "./js/apiv549drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./js/瓜子.js"},
         {"key":"荐蓝2","name":"👻荐蓝","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./js/apiv937drpy2.min.js","ext":"./js/jp.js"},                
-         	{"key":"Xunlei8","name":"👻食全食美|Xunlei8","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60}, 
+         	{"key":"Xunlei8","name":"👻食全食美 Xunlei8","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60}, 
           //{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},                    
         	 {   "key":"csp_XYQHikerdyx",
         "name":"👻食全食美┃磁力4k",
@@ -225,7 +225,7 @@
 	"站名": "6v磁力",
 	"主页url": "https://www.66ss.org/",
 	"数组": "post box row fixed-hight&&info_category info_ico",	
-	"图片": "img src=\"&&\"",
+	"图片": "img src= "&& "",
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
 	"链接前缀": "",
